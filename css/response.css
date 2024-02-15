@@ -1,0 +1,17 @@
+@media screen and (max-width:768px){
+   header .wrap ul.gnb{
+     
+   display: none;
+   }
+   header .wrap span.lang{
+     display: none;
+   }
+   .ham{
+   display: flex;
+   }
+  #title .wrap{
+    padding: 0 15px;
+    text-align: center;
+  }
+ }
+ 
